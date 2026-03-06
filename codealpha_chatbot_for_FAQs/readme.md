@@ -2,6 +2,8 @@
 
 A simple chatbot that answers frequently asked questions by finding the most similar question in a predefined FAQ dataset.
 
+https://github.com/user-attachments/assets/02ee977e-2557-4d53-ad4d-f156060b12da
+
 This project was built during my internship at **CodeAlpha** to practice Natural Language Processing techniques.
 
 ---
