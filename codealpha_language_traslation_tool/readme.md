@@ -45,12 +45,14 @@ pip install -r requirements.txt
 python app.py
 
 ## 📂 Project Structure
+
+```
 language-translation-tool
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
-
+```
 ## 📚 What I Learned
 
 Working with external APIs
