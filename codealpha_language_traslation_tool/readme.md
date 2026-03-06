@@ -2,6 +2,8 @@
 
 A simple desktop application that allows users to translate text between multiple languages using an online translation API.
 
+https://github.com/user-attachments/assets/a94fa5da-7916-4aef-bc8c-2a5d297337d9
+
 This project was developed as part of my internship at **CodeAlpha** to practice API integration and GUI development in Python.
 
 ---
